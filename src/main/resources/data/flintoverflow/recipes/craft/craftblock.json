@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shapeless",
-
-  "ingredients":
-  [
-
-    {
-      "item": "minecraft:flint",
-      "count": 9
-    }
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    "WWW",
+    "WWW"
   ],
-
-  "result":
-  {
-    "item": "flintoverflow:flint_block"
+  "key": {
+    "W": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "flintoverflow:compressed_flint_block_x1",
+    "count": 1
   }
 }

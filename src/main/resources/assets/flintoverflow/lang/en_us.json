@@ -1,11 +1,11 @@
 {
-  "item.flintoverflow.flint_block": "Flint Block",
-  "item.flintoverflow.compressed_flint_block_x1": "1x Compressed Flint Block",
-  "item.flintoverflow.compressed_flint_block_x2": "2x Compressed Flint Block",
-  "item.flintoverflow.compressed_flint_block_x3": "3x Compressed Flint Block",
-  "item.flintoverflow.compressed_flint_block_x4": "4x Compressed Flint Block",
-  "item.flintoverflow.compressed_flint_block_x5": "5x Compressed Flint Block",
-  "item.flintoverflow.compressed_flint_block_x6": "6x Compressed Flint Block",
-  "item.flintoverflow.compressed_flint_block_x7": "7x Compressed Flint Block",
-  "item.flintoverflow.compressed_flint_block_x8": "8x Compressed Flint Block"
+  "block.flintoverflow.flint_block": "Flint Block",
+  "block.flintoverflow.compressed_flint_block_x1": "1x Compressed Flint Block",
+  "block.flintoverflow.compressed_flint_block_x2": "2x Compressed Flint Block",
+  "block.flintoverflow.compressed_flint_block_x3": "3x Compressed Flint Block",
+  "block.flintoverflow.compressed_flint_block_x4": "4x Compressed Flint Block",
+  "block.flintoverflow.compressed_flint_block_x5": "5x Compressed Flint Block",
+  "block.flintoverflow.compressed_flint_block_x6": "6x Compressed Flint Block",
+  "block.flintoverflow.compressed_flint_block_x7": "7x Compressed Flint Block",
+  "block.flintoverflow.compressed_flint_block_x8": "8x Compressed Flint Block"
 }

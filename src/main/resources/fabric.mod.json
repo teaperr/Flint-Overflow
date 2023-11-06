@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "flintoverflow",
   "version": "${version}",
-  "name": "Flint Overflow",
+  "name": "Flint Overflow!",
   "description": "Clean up all that extra flint lying around.",
   "authors": [
     "teaper_",

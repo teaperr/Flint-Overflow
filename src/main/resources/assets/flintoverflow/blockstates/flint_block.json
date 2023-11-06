@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "flintoverflow:block/flint_block" }
+  }
+}
