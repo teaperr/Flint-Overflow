@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "flintoverflow:compressed_flint_block_x5",
+    "flintoverflow:compressed_flint_block_x4",
+    "flintoverflow:compressed_flint_block_x3",
+    "flintoverflow:compressed_flint_block_x2",
+    "flintoverflow:compressed_flint_block_x1",
+    "flintoverflow:flint_block"
+  ]
+}

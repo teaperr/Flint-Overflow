@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+
+    {
+      "item": "flintoverflow:compressed_flint_block_x7"
+    }
+  ],
+
+  "result":
+  {
+    "item": "flintoverflow:compressed_flint_block_x6",
+    "count": 9
+  }
+}
