@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "flintoverflow",
+  "version": "${version}",
+  "name": "Flint Overflow",
+  "description": "Clean up all that extra flint lying around.",
+  "authors": [
+    "teaper_",
+    "Thea"
+  ],
+  "contact": {
+    "repo": "https://github.com/teaperr/Flint Overflow"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/flintoverflow/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.teaper.flintoverflow.client.FlintOverflowClient"
+    ],
+    "main": [
+      "net.teaper.flintoverflow.FlintOverflow"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
