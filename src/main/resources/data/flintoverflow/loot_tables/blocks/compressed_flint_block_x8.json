@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "flintoverflow:compressed_flint_block_x4"
+          "name": "flintoverflow:compressed_flint_block_x8"
         }
       ],
       "conditions": [
